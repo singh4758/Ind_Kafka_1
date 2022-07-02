@@ -45,3 +45,7 @@
 ![](./screenshots/02_kafka_theory/2022-07-02-22-17-42.png)
 
 ![](./screenshots/02_kafka_theory/2022-07-02-22-19-01.png)
+
+![](./screenshots/02_kafka_theory/2022-07-02-22-21-15.png)
+
+![](./screenshots/02_kafka_theory/2022-07-02-22-22-13.png)
