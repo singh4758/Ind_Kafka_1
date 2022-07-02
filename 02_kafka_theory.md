@@ -35,3 +35,13 @@
 ![](./screenshots/02_kafka_theory/2022-07-02-22-09-36.png)
 
 ![](./screenshots/02_kafka_theory/2022-07-02-22-11-04.png)
+
+![](./screenshots/02_kafka_theory/2022-07-02-22-14-26.png)
+
+![](./screenshots/02_kafka_theory/2022-07-02-22-15-11.png)
+
+![](./screenshots/02_kafka_theory/2022-07-02-22-16-13.png)
+
+![](./screenshots/02_kafka_theory/2022-07-02-22-17-42.png)
+
+![](./screenshots/02_kafka_theory/2022-07-02-22-19-01.png)
